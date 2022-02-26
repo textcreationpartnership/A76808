@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Richard Blake his speech in the House of Commons at a grand committee for the bill against paper petitions. Master Brereton sitting in the chaire Iune XXVIII. 1641.</title>
+            <title>Speech in the House of Commons at a grand committee for the bill against paper petitions</title>
+            <author>Blake, Richard, Sir, d. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76808</idno>
+            <idno type="STC">Wing B3137</idno>
+            <idno type="STC">Thomason E198_25</idno>
+            <idno type="STC">ESTC R11468</idno>
+            <idno type="EEBO-CITATION">99859039</idno>
+            <idno type="PROQUEST">99859039</idno>
+            <idno type="VID">111100</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111100)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E198[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Richard Blake his speech in the House of Commons at a grand committee for the bill against paper petitions. Master Brereton sitting in the chaire Iune XXVIII. 1641.</title>
+                  <title>Speech in the House of Commons at a grand committee for the bill against paper petitions</title>
+                  <author>Blake, Richard, Sir, d. 1663.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Anno Domini, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The speech was given in the Irish Parliament.</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111100:1"/>
+            <pb facs="tcp:111100:1" rendition="simple:additions"/>
+            <p>Sir Richard Blake HIS SPEECH IN THE HOUSE OF COMMONS At a Grand Committee for the Bill againſt paper Petitions.</p>
+            <p>Maſter <hi>Brereton</hi> ſitting in the CHAIRE <hi>Iune</hi> XXVIII. 1641.</p>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Anno Domini,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111100:2"/>
+            <pb n="1" facs="tcp:111100:2"/>
+            <head>Sir <hi>Richard Blake</hi> his Speech in the Houſe of COMMONS, at a Grand Committee for the Bill againſt Paper Petitions,</head>
+            <head type="sub">Maſter <hi>Brereton</hi> ſitting in the Chaire. June 28. 1641.</head>
+            <opener>
+               <salute>Maſter <hi>Brereton,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He matter we now treat of is of great importa<g ref="char:cmbAbbrStroke">̄</g>ce, it is of the power that Pa<g ref="char:EOLhyphen"/>per Petitions have of late uſurped in this Kingdom by the Arbitrary Judi<g ref="char:EOLhyphen"/>cature of Civill Cauſes and Contro<g ref="char:EOLhyphen"/>verſies. It will become the Judgment of this great Councell to conſider, Firſt, of the Nature and Eſſence, then of the fruits and effects of theſe Pa<g ref="char:EOLhyphen"/>per Petitions, and laſtly, if we finde thoſe fruits ſo bitter and unſavoury, that inſtead of pleaſing they poyſon us, to grub them up, and root them ſo out that they ſhall never grow again in this <hi>Garden</hi> of ours, this our <hi>Eden,</hi> our deare Country, to deſtroy us and our poſterity, as the forbidden fruit did in <hi>Adam</hi> all mankind.</p>
+            <pb n="2" facs="tcp:111100:3"/>
+            <p>Sir, there are many things deſcribed by their Contraries, this will be granted is <hi>Color contrarius albo,</hi> it is the deprivation and annihilation of our Fundamentall and vitall Laws: Our Laws (Sir) are the <hi>ne plus ultra</hi> to all Kings and Subjects, and as they are <hi>Hercules</hi> his <hi>Pillars,</hi> ſo are they <hi>Pillars</hi> to every <hi>Hercules,</hi> and <hi>Prince,</hi> that they cannot paſſe; and Pillars that beare and ſupport every Subject in his life, in his Lands, and his goods.</p>
+            <p>When <hi>Rome</hi> triumphed in her ancient great<g ref="char:EOLhyphen"/>neſſe, and was acknowledged ſole and ſovereigne <hi>Empreſs</hi> of all the Nations in the World, a Poet of thoſe times ſhewes the cauſe of her continued ſplendour and flouriſhing eſtate by this Verſe,</p>
+            <q>
+               <hi>Moribus antiquis ſtat res</hi> Romana, <hi>virique.</hi>
+            </q>
+            <p>I may not unaptly apply that Verſe to this Kingdome, and truly ſay, that <hi>Legibus antiquis ſtat res</hi> Hiberna, <hi>virique.</hi> Our Laws are the breath of our noſtrils, the ſight of our eys, the very Soul and Nerves by which this great body politique of ours doth live and move, they are the beſt Guards of <hi>Kings, Magiſtrates,</hi> and vertuous men, they are Snaffles to bridle the wicked, they are Sickles to cut downe all weeds growing up in the Common-weal; thoſe paper Petitions are their <hi>Antagoniſts,</hi> their profeſt enemies, they trample them under foot, not revering or reſpecting their venerable gray-headed antiquity, not regarding that by their influence and vertue wee now ſit to<g ref="char:EOLhyphen"/>gether in this great Councell, aſwell for the con<g ref="char:EOLhyphen"/>ſervation of them, as propagation of a new fruit<g ref="char:EOLhyphen"/>full ſeed of more to poſteritie, not valuing the
+<pb n="3" facs="tcp:111100:3"/>great and unſpeakable benefit that mankinde hath originally received from them, in that by their means we lead the lives of reaſonable men, not of brute Beaſts, of Free-men, not of Slaves, of Civill men, and not of Salvages.</p>
+            <p>Thoſe paper Petitions like whirlewinds throw down all before them that ſtand in their way, make one man in the <hi>Lucifertan</hi> (as I may term it) Exaltancie of his power to monopolize and ap<g ref="char:EOLhyphen"/>propriate unto himſelfe the abilities of all men, the properties of all Courts.</p>
+            <p>The Judges, once like ſo many Planets ſhining in their ſeverall Orbs, obſerving their conſtant motion in their ſeverall Courts of Judicature, im<g ref="char:EOLhyphen"/>parted unto us the comfortable light, and vivifi<g ref="char:EOLhyphen"/>cant heat of the Laws, thoſe paper Petitions ex<g ref="char:EOLhyphen"/>tinguiſh and put out this light, with the vapours that riſe from them, they ecclipſe and darken the Luſtre of it, they ſully the white Furres of their Roabes, they endanger the blackning of their whiter conſciences, when by force of the Commands of thoſe Petitions they are required contrary to their Oath, not onely to delay, but to denie Juſtice.</p>
+            <p>The Marſhals Court was originally erected for Armes and Honour, the Chancery for Equitie, the Exchequer for the Revenues, &amp; Kings Bench for the Pleas of the Crown, the Common Pleas for Pleas between Subject and Subject, and the Prerogative, Conſiſtory, and Biſhops Courts for Eccleſiaſticall Cauſes; from thoſe Ciſterns the water of life did iſſue and flow upon us, but <hi>ini<g ref="char:EOLhyphen"/>micus
+<pb n="4" facs="tcp:111100:4"/>&amp; iniqu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s homo ſuperſeminovil z<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> in <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dio tritici,</hi> one man in his vaſt unlimited and tran<g ref="char:EOLhyphen"/>ſcendent power, tooke all their Functions upon himſelfe alone, vainly acted himſelfe <hi>Omnipotent,</hi> which is an Attribute proper to God Almighty, and that in <hi>quarto modo,</hi> (as your Logicians terme it) <hi>ſoli ſemper &amp; uni,</hi> created himſelfe Earle Mar<g ref="char:EOLhyphen"/>ſhall, Lord Chancellor, Chiefe Baron, nay, all the Barons of the Exchequer, Chief Juſtice, nay, all the Juſtices of either Bench, Archbiſhop, Bi<g ref="char:EOLhyphen"/>ſhop, nay, all the Archbiſhops, Biſhops, Deans and Chapters of the Kingdome.</p>
+            <p>
+               <hi>Juſtine</hi> in the Preface to his Hiſtory tels us, that in the non-age and firſt infancie of the World, <hi>Populus nullis legibus tenebatur, arbitria potentium pro Legibus erant,</hi> The people had no poſitive Laws to govern them, the wills of great ones were their Laws, and thoſe wils were ſo inordinate and ſo exorbitant, that for the moſt part, they made their own wils and fancies to be their Treaſurers, and Hangmen, meaſuring by that yard, and weighing in that Ballance both good and evill. After the Revolution of ſo many Ages, as if <hi>Pythagoras</hi> his opinion of <hi>Tranſmigration</hi> were true, or that the <hi>Platonicke</hi> yeare of reducing all things to the ſame beginning, continuance and period (how falſe ſoever in the books of nature) had bin come, have we not lived as it were in theſe times? have we not groaned? and were not our backs cracked under the weight that paper Petitions, and the Commands of thoſe great ones upon them invol<g ref="char:EOLhyphen"/>ved, and fettered us in? were not our adverſaries
+<pb n="5" facs="tcp:111100:4"/>by their References made our Iudges? and our Iudges, our ſworne Iudges made Arbitrary Cen<g ref="char:EOLhyphen"/>ſurers of what properly was to bee determined before themſelves in their Courts? were not our Freeholds and goods violently &amp; extrajudicially taken from us? were not our bodies impriſoned? Our bodies (Sir) whoſe libertie the Common Law did ſo highly eſteeme, that they were not for any cauſe whatſoever to be reſtrained, but onely for force, and that becauſe the Law being the preſerver of the quiet and Tranquility of the Kingdome deteſted and abhorred force, as the enemy and violator thereof, thoſe bodies of ours were not onely impriſoned, but pillori'd, whipt and ſcourged upon Sentences given upon paper Petitions, and our ſelves forced, as Chil<g ref="char:EOLhyphen"/>dren are, to kiſſe the rod by making a forced ac<g ref="char:EOLhyphen"/>knowledgement of Guilt, againſt our knowledge and conſcience, without which we could not re<g ref="char:EOLhyphen"/>deeme thoſe bodies from perpetuall Impriſon<g ref="char:EOLhyphen"/>ment, our eſtates from being extended, and our goods from being ſeized.</p>
+            <p>Vpon the late ſolemne and famous Triall of the Earle of <hi>Strafford,</hi> and in the greateſt preſence of the World, for that the King was pleaſed to be perſonally preſent, &amp; all the States of the King<g ref="char:EOLhyphen"/>dome of <hi>England</hi> aſſembled in Parliament, with the Commiſſioners and Committees of both his other Kingdomes, it hath beene offered to Conſi<g ref="char:EOLhyphen"/>deration as a matter of great conſequence, that it imbaſeth the ſpirits of a Nation, when they muſt ſtand in feare of Pilloring, Scaffolding, and
+<pb n="6" facs="tcp:111100:5"/>like punſhments, it takes away their ſpirits, ten<g ref="char:EOLhyphen"/>ders them puſillanimous and weak-hearted, in <hi>England</hi> where this was repreſented, they ſuffered not under ſuch preſſures or feares; the King whoſe vertues are his Inmates, and true qualities ingen<g ref="char:EOLhyphen"/>rate both in his judgement and nature, with the ſun-ſhine of his preſence (which makes them hap<g ref="char:EOLhyphen"/>pie) cleares and expells all ſuch miſts, but the re<g ref="char:EOLhyphen"/>ports of our miſeries occaſioned by the frequen<g ref="char:EOLhyphen"/>cie of ſuch uſage, or rather miſ-uſage, flying over unto them with the gale of our ſighes, and ſpring<g ref="char:EOLhyphen"/>tide of our Teares, wrought that charitable Im<g ref="char:EOLhyphen"/>preſſion, and drew that Emphaticall expreſſion from them, <hi>Si in viridi ligno hoc faciunt, in arid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quia fiet?</hi> if they out of the ſence of our ſlaviſh ſufferance tooke that to Conſideration, and their pious Commiſeration, have not wee in whoſe Scene that Tragedie was acted greater cauſe to take it to our more ſerious thoughts? ſurely we have, and cannot without blemiſh to our Iudge<g ref="char:EOLhyphen"/>ments, and wrong to our ſelves and poſteritie, but indeavour to remove the cauſe, <hi>Sublata cauſa tolli<g ref="char:EOLhyphen"/>tur effectus:</hi> And the principle cauſe I conceive to proceed from thoſe paper Petitions, the pro<g ref="char:EOLhyphen"/>ceedings upon them being not limited to any certaine Rule, time, ſeaſon, place, cauſe, or thing, nor any degree, Sex, age, or quality priviledged by them, by them his Majeſty loſeth a conſide<g ref="char:EOLhyphen"/>rable part of his Revenue, that might juſtly and lawfully reſult and acrue unto him out of origi<g ref="char:EOLhyphen"/>nall Writs, Fines, Amerciaments and profits, by them the Subject loſeth the benefit of his writ
+<pb n="7" facs="tcp:111100:5"/>of Errour, Bill of Reverſall, Voucher Eſſoignes, Views, Fines, with Proclamations and Diſcents, and by them many other Legall and Juſt advanta<g ref="char:EOLhyphen"/>ges in the ordinary courſe, and Courts of Juſtice are declined, and their onely Conſequence is by immoderate and unlawfull Fees to enrich Secre<g ref="char:EOLhyphen"/>taries, Clerks, Purſivants, and Serjants at Armes, and not onely them, but Projectors, Informers, and ſuch other Horſleeches, that ſuck the bloud of our bodies, and marrow of our bones, and their malig<g ref="char:EOLhyphen"/>nant operation reſts not here, but extends to our intrinſecall parts, that wee call <hi>Qualitates animæ</hi> they ſtrongly endevour to ſubvert.</p>
+            <p>That the planting of Learning is the true and right way to plant Civility, and that</p>
+            <q>
+               <l>—ingenuas didiciſſe fideliter artes</l>
+               <l>Emollit mores, nee ſinit eſſe feros,</l>
+            </q>
+            <p>Our owne obſervation and the experience of all Nations tels us, and <hi>Cornelius Tacitus</hi> in the life of <hi>Agricola</hi> demonſtrates.</p>
+            <p>
+               <hi>Julius Agricola</hi> the <hi>Roman,</hi> Generall in <hi>Britanie,</hi> found the ancient Inhabitants rude, barbarous, and apt upon every occaſion to make warre, hee being a wiſe man, as he was a valiant man, conceived it the beſt way to Civilize, and conſequently to con<g ref="char:EOLhyphen"/>taine them in the Spheare of their obedience to the <hi>Romane Monarchie,</hi> to build and erect free Schools, and places of publike reſort, and in them to have the Children of the Nobles, and Genle<g ref="char:EOLhyphen"/>men, trained, and inſtructed in the liberall Scien<g ref="char:EOLhyphen"/>ces, which he did, the event anſwered his expecta<g ref="char:EOLhyphen"/>tion, and his policie had the wiſhed effect, for the
+<pb n="8" facs="tcp:111100:6"/>
+               <hi>Britiſh</hi> youth being curious to attaine the Elo<g ref="char:EOLhyphen"/>quence of the <hi>Roman</hi> language, the <hi>Romane</hi> attire grew to be in accompt, and the <hi>Go<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> in requeſt among them, and ſo came as <hi>Tacitus</hi> obſerves to the height of Civilitie, which ever ſince they have to their great glory maintained. And I am (M. <hi>Bre<g ref="char:EOLhyphen"/>reton</hi>) of opinion, that our Anceſtors in their great wiſdome left for us ſuch part of the Common-Law as is written, The pleadings of them, and ori<g ref="char:EOLhyphen"/>ginall Writs, in the Latin language, becauſe that being the generall, and an immutable language, not ſubject to be ſophiſticated as all other languages (except the <hi>Hebrew</hi> and <hi>Greek</hi>) were, or to receive <hi>Majus aut Minus,</hi> a Language that was never con<g ref="char:EOLhyphen"/>quered with any Conqueſt, and that the fury of the <hi>Saxons, Danes,</hi> and <hi>Normans,</hi> could never ſo ex<g ref="char:EOLhyphen"/>tirpate or ſuppreſſe, but that our Laws ſtill lived in it, as in the Veſtall fire that is never extinguiſht, to the end I ſay, that we might be incited and invi<g ref="char:EOLhyphen"/>ted to the knowledge and uſe thereof; to ſtreng<g ref="char:EOLhyphen"/>then my opinion in this, and to ſhew how neceſſa<g ref="char:EOLhyphen"/>ry the knowledge of it is for the profeſſors of our Laws, I will preſent unto you the Authorities of two of the greateſt Sages of the Law, the one An<g ref="char:EOLhyphen"/>cient, the other Recent, and in their own words, which I onely tranſlate, that I may not diſparage, or take off the waight of them by mine.</p>
+            <p>Mr. <hi>Littleton,</hi> who is the Portall by which all Students make their firſt entrance, and who by his excellent Book gives them <hi>Ariadnes</hi> clue, to guide and direct them in their ways in that intricate La<g ref="char:EOLhyphen"/>byrinth, in his chapter of <hi>Confirmation, lib.</hi> 3. <hi>cap.</hi> 9.
+<pb n="9" facs="tcp:111100:6"/>gives them this grave and fatherly advice. Know my Sonne, that it is one of the moſt honourable, laudable, and profitable things in our Law, to have the Science of wel Pleading in actions Reall and Perſonal, and therefore I counſell thee to em<g ref="char:EOLhyphen"/>ploy thy courage and care to learn this.</p>
+            <p>Sir <hi>Edward Coke,</hi> whoſe learned Works are the <hi>Coronides</hi> of the Students endevours, and do poliſh the ſame, in <hi>Blackamores Caſe</hi> 8. <hi>rep. fol.</hi> 159. ſays that the Clerks are bound by the duty of their Offices to have skill and ſcience in the Forme of original Writs, which are the foundation that all the Law depends of, and therfore if the Forms of originall Writs be neglected, ignorance the mother of Er<g ref="char:EOLhyphen"/>rour, and Barbariſme will enſue, and in the end all ſhall be involved in confuſion, and the ancient Law of the Kingdome ſubverted.</p>
+            <p>This is the judgment (M. <hi>Brereton,</hi>) of theſe two great Pillars of the Law, and that this they ſo ear<g ref="char:EOLhyphen"/>neſtly direct, hath not been obſerved in paper Pe<g ref="char:EOLhyphen"/>titions, wee all know; a common Scrivener draws them, and an illiterate Clerk, (for ſo many of them are) whoſe knowledge ſoares no higher than his mother Tongue, and whoſe beſt abilities, and perfections are to wait officiouſly upon my Lord, his Maſter, ſol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icits this, and he, or the powerfull interceſsion of a Favourite prevalls more in buſi<g ref="char:EOLhyphen"/>neſſes of greateſt conſequence, and where Legall proceedings and Scrutinie are requiſite, then hap<g ref="char:EOLhyphen"/>pily a <hi>Littleton</hi> or a <hi>Cook; O tempora, O mores!</hi> which I think we lately had as great cauſe as <hi>Tully</hi> to ex<g ref="char:EOLhyphen"/>claime upon.</p>
+            <pb n="10" facs="tcp:111100:7"/>
+            <p>What a great Ornament to this Kingdome Mr. <hi>Brereton</hi> the Profeſſors of our Laws are, how dai<g ref="char:EOLhyphen"/>ly and hourely uſefull, unto our ſelves both in this Houſe and in <hi>England,</hi> the members of the Houſe (whom wee terme of the long <hi>Roabe</hi>) are, I leave to the Judicious obſervation of this Committee, and likewiſe to their conſideration how infinitely they and the reſt of that Honourable profeſsion have beene damnified by thoſe paper-blaſts, Blaſts I may well call them, for indeed they blaſt, and nip in the very bloſſome the hopes of all our Law Students, who having ſpent the Spring of their yeeres in the <hi>Innes of Court</hi> in that ſtudie, and many of them the beſt part of their fortunes, up<g ref="char:EOLhyphen"/>on their returne to this their Native Countrey, their <hi>Land of promiſe,</hi> when they expect to meet with a Harveſt to crowne their painfull and char<g ref="char:EOLhyphen"/>geable endeavours, they have hardly gleanings left for them by thoſe paper-Clerks: This Sir as I con<g ref="char:EOLhyphen"/>ceive is very conſiderable by us, and thoſe Paper-Petitions being, as I endeavoured in their tree co<g ref="char:EOLhyphen"/>lours to repreſent them, <hi>Tares</hi> introduced &amp; plan<g ref="char:EOLhyphen"/>ted among the <hi>Corn</hi> by the enemy of mankinde, at leaſt the enemy of the welfare of this Kingdome, in their nature a <hi>Monopoly,</hi> or rather a <hi>Rape</hi> upon all mens abilities and the properties of all Courts, be<g ref="char:EOLhyphen"/>ing the Bedels of our bodies, the diſſeiſors of our Lands, Robers of our goods, Suppreſſors of our intellectuall parts, Subverters of the Common-law and Rebels to the Statute-lawes as appeares by <hi>Magna Charta</hi> 2. <hi>Hen.</hi> 3. by 28. and 25. of <hi>E.</hi> 3. and by the Record of 21. <hi>Ed.</hi> 1. that are mentioned in
+<pb n="11" facs="tcp:111100:7"/>the preamble of the <hi>Bill,</hi> I am humbly of opinion that as the wiſdome of this houſe hath already looked with a retroſpect eye upon ſome of the many grievances that were occaſioned by them, that with the other eye we looke forward, <hi>Ne quid detrimenti reſpublica patiatur</hi> hereafter.</p>
+            <p>
+               <hi>M. Brereton,</hi> the nature of domination is ſuch, in the irregular mindes of ſome, that having once broken out of Circle, they cannot indure any limi<g ref="char:EOLhyphen"/>tation or bounds, but range at liberty in the wide and ſpacious fields of their own humours, and be<g ref="char:EOLhyphen"/>ing not able to give Laws to their appetites, make Laws as Champions to defend them, and reaſon as a Paraſite to glorifie them, &amp; that this hath bin ſo, we have ſeen, &amp; that it may be ſo hereafter the condition and nature of man tels us, we are there<g ref="char:EOLhyphen"/>fore to conclude upon this good way of the perpe<g ref="char:EOLhyphen"/>tuall damning of ſuch paper-Petitions as extra ju<g ref="char:EOLhyphen"/>dicially determine Civil cauſes, that they may ne<g ref="char:EOLhyphen"/>ver riſe after in judgment againſt us, that they may not aſſume to themſelves the force of <hi>Bulls</hi> &amp; <hi>Can<g ref="char:EOLhyphen"/>nons</hi> as they have done, or like <hi>Hydra's</hi> heads pullu<g ref="char:EOLhyphen"/>late and ſpring up, to the bane &amp; utter deſtruction of us and our poſterity, And therefore my vote is that the Bill as it is now drawn ſhall be approved with thoſe Proviſions that are inſerted in it, that it ſhall not extend to his Majeſties Courts of Caſtle-Chamber, Chancery, Chancery of the Exchec<g ref="char:EOLhyphen"/>quer, Court of Wards, the Preſidencies of <hi>Mon<g ref="char:EOLhyphen"/>ſter, Connaght,</hi> or the Lievtenancies of the Counties of <hi>Gallway,</hi> &amp; the Countie of <hi>Clare,</hi> or to the Civill proceedings before the Juſtices of <hi>Aſsizes,</hi> but with
+<pb n="2" facs="tcp:111100:8"/>ſuch qualifications as in the Bill is mentioned, and that the Houſe of the Lords may by Meſſage bee acquainted with it, that wee may have their con<g ref="char:EOLhyphen"/>current approbation, which I doubt not they will cheerfully give, for the impetuous rage of thoſe Paper Petitions had no more reſpect, and made no other diſtinction betweene the freedome of their Peerage, or their eſtates and goods, than the mea<g ref="char:EOLhyphen"/>neſt common-perſons. And that his Majeſty will give his Royall aſſent thereunto, I am hopefull and confident, having already in the abyſſe of his goodneſſe and care of his faithfull Subjects of this Kingdome, publikely declared his diſſent and a<g ref="char:EOLhyphen"/>verſneſſe from them in the very firſt Chapter of his Printed Inſtructions, and likewiſe in the Proclamation that we ſent over into <hi>England,</hi> to accompany our Proteſtation to that part of the Preamble of our Act of Subſidies that extold the Earle of <hi>Straffords</hi> Government. This being my opinion I humbly ſubmit to the conſideration and better judgment of this <hi>Committee.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111100:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
